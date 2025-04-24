@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://dcbadge.limes.pink/api/server/https://discord.gg/gUhceNEt5A)
 <!--
 
 **Here are some ideas to get you started:**
