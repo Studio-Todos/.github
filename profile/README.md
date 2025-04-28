@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Studio Todos
+## 🚀 About Studio Todos 
 Studio Todos is an open-source game development studio powered by Rust and the [Bevy](https://bevyengine.org/) engine. Our current flagship project is a fast-paced FPS movement shooter, combining fluid parkour mechanics with high-octane combat.
 
 ---
